@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T09:38:20 IST" name="RestAssuredFramework" finished-at="2024-04-04T09:38:24 IST" duration-ms="3990">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T09:38:20 IST" name="Test" finished-at="2024-04-04T09:38:24 IST" duration-ms="3990">
+      <class name="com.qa.tests.AddBookTest">
+        <test-method signature="postAddBook()[pri:0, instance:com.qa.tests.AddBookTest@37d4349f]" started-at="2024-04-04T09:38:20 IST" name="postAddBook" finished-at="2024-04-04T09:38:23 IST" duration-ms="3000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddBook -->
+        <test-method signature="postAddBookFormHashMap()[pri:0, instance:com.qa.tests.AddBookTest@37d4349f]" started-at="2024-04-04T09:38:23 IST" name="postAddBookFormHashMap" finished-at="2024-04-04T09:38:24 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAddBookFormHashMap -->
+      </class> <!-- com.qa.tests.AddBookTest -->
+    </test> <!-- Test -->
+  </suite> <!-- RestAssuredFramework -->
+</testng-results>
